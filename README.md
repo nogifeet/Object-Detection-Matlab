@@ -1,6 +1,7 @@
 # Object-Detection-Matlab
 
 ### Yolo_v2 Object Detection
+Matlab Blog: https://blogs.mathworks.com/racing-lounge/2020/07/07/yolov2-object-detection-data-labelling-to-neural-networks-in-matlab/
 
 ##### Class Description
 
