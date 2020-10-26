@@ -9,5 +9,8 @@ Matlab Blog: https://blogs.mathworks.com/racing-lounge/2020/07/07/yolov2-object-
 
 #### Prediction From Yolov2
 
-![alt text](https://github.com/nogifeet/Object-Detection-Matlab/blob/main/Yolo_v2/sample_img_prediction.PNG "Sample Prediction")
+![alt text](https://github.com/nogifeet/Object-Detection-Matlab/blob/main/Yolo_v2/sample_img_prediction.PNG "Sample Prediction Yolo_v2")
 
+#### Prediction From Faster R-CNN
+
+![alt text](https://github.com/nogifeet/Object-Detection-Matlab/blob/main/Faster%20R-CNN/detect_drawing.PNG "Sample Prediction Faster R-CNN")
